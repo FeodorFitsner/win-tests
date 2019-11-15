@@ -4,4 +4,4 @@ language: shell
 
 script:
 - whoami
-- dir
+- cmd /c dir c:\
